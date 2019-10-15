@@ -1,4 +1,4 @@
-# netlify-cms-widget-nested-select>
+# netlify-cms-widget-nested-select
 
 [Check out a demo!](https://netlify-cms-widget-nested-select.netlify.com/demo)
 
