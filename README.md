@@ -13,7 +13,7 @@ npm install --save netlify-cms-widget-nested-select
 ```
 
 ```js
-import NestedSelect from 'netlify-cms-widget-nested-select'
+import {NestedSelectControl, NestedSelectPreview} from 'netlify-cms-widget-nested-select'
 
 CMS.registerWidget('nested-select', NestedSelectControl, NestedSelectPreview)
 ```
