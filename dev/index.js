@@ -32,7 +32,12 @@ const config = {
             ]
           }
         ]
-      }, ],
+      },
+      {
+        name: 'another-field',
+        label: 'Another Field',
+        widget: 'string'
+      }],
     }],
   }],
 }
