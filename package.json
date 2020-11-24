@@ -11,7 +11,7 @@
     "conditional"
   ],
   "version": "1.0.2",
-  "homepage": "https://github.com/kbravh/netlify-cms-widget-starter",
+  "homepage": "https://github.com/kbravh/netlify-cms-widget-nested-select",
   "license": "MIT",
   "main": "dist/main.js",
   "devDependencies": {
