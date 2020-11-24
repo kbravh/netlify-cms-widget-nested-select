@@ -10,7 +10,7 @@
     "nested",
     "conditional"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/kbravh/netlify-cms-widget-nested-select",
   "license": "MIT",
   "main": "dist/main.js",
