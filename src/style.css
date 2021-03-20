@@ -1,3 +1,7 @@
+.firstSelect__menu {
+    z-index: 2 !important;
+}
+
 .secondSelect {
     margin-top: 15px;
     width: 90%;

@@ -81,6 +81,8 @@ export default class Control extends React.Component {
     return (
       <div className={classNameWrapper}>
         <Select
+          className="firstSelect"
+          classNamePrefix="firstSelect"
           id={forID}
           value={this.convertToOption(value.split(delimiter)[0]) || ''}
           options={this.state.primaryOptions}
