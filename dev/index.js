@@ -22,7 +22,6 @@ const config = {
         widget: 'nested-select',
         options: [
           "Regular option",
-          "Another regular option",
           {
             label: "Option with suboptions",
             options: [

@@ -55,4 +55,4 @@ Add to your Netlify CMS configuration:
 
 ## Support
 
-For help with this widget, open an [issue](https://github.com/kbravh/netlify-cms-widget-nested-select) or ask the Netlify CMS community in [Gitter](https://gitter.im/netlify/netlifycms).
+For help with this widget, open an [issue](https://github.com/kbravh/netlify-cms-widget-nested-select/issues).
