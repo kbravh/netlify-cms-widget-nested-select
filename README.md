@@ -1,6 +1,6 @@
 # netlify-cms-widget-nested-select
 
-[Check out a demo!](https://netlify-cms-widget-nested-select.netlify.com/demo)
+[Check out a demo!](https://netlify-cms-widget-nested-select.netlify.app)
 
 This widget will conditionally show a second select with its own options based on what's chosen in the first select. This can be used, for example, to set up subcategories inside of categories.
 
